@@ -1,12 +1,5 @@
 <!-- # Team. 알딸딸🍷 -->
 
-<br /> <br />
-
-<p align="center">
-<img src="./fe/src/images/loginLogo.png" width="500px">
-</p>
-<br /> <br />
-
 # 나만의 칵테일을 공유하고 싶을 땐 알딸딸!🤪
 
 <br /> <br />
@@ -14,8 +7,7 @@
 ## 🗓️ 프로젝트 기간
 
 <br />
-
-## 2023.04.28 ~ ing
+2023.04.28 ~ 06.10
 
 <br /><br />
 
@@ -70,12 +62,6 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&-logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-<br /><br />
-
-<p align="center">
-<img src="./fe/src/images/Stackarchitecture.png" >
-</p>
 
 <br /><br />
 
